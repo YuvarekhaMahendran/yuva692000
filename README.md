@@ -1,6 +1,8 @@
 Hi there, I'm Yuvarekha Mahendran👋
 
 About me:
+
+
 👐Yuvarekha, a dedicated graduate student, is committed to acquiring new skills and knowledge to achieve her goals.
 
 🎓In my undergraduate studies in Computer Science and Engineering, I developed proficiency in HTML, CSS, SQL, and Python. A compelling coursework on "Industrial Economics and Corporate Management" during my 8th semester inspired me to pursue Business Analytics as my next step. 
